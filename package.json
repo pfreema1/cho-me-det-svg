@@ -1,8 +1,10 @@
 {
 	"name": "chomedetsvg",
 	"displayName": "chomedetsvg",
+	"publisher": "paul",
 	"description": "",
 	"version": "0.0.1",
+	"repository": "https://github.com/pfreema1/cho-me-det-svg",
 	"engines": {
 		"vscode": "^1.49.0"
 	},
